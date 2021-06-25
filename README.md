@@ -1,4 +1,4 @@
-#React Appointment system App
+# React Appointment system App
 This project was created by Atit man singh
 
 ## Available Scripts
